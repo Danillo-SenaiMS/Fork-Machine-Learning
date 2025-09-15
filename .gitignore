@@ -101,4 +101,9 @@ comandos_GIT.md
 .parquet   
 # Arquivos de configuração do sistema
 *.cfg
-consideracoes.md
+_Consideracoes.md
+dados_cerveja_nota.xlsx
+dados_cerveja.xlsx
+dados_clones.parquet
+dados_frutas.xlsx
+
